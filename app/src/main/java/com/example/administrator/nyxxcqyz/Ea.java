@@ -5,5 +5,5 @@ package com.example.administrator.nyxxcqyz;
  */
 
 public class Ea {
-    public int ma=2;
+    public int ma=23;
 }
