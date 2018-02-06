@@ -46,7 +46,6 @@ public  class HttpRequest {
         }
         bout.close();
         inputStream.close();
-        int aa=2;
         return bout.toByteArray();
     }
 
